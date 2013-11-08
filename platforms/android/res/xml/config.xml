@@ -9,9 +9,6 @@
     <feature name="App">
         <param name="android-package" value="org.apache.cordova.App" />
     </feature>
-    <feature name="InAppBrowser">
-        <param name="android-package" value="org.apache.cordova.inappbrowser.InAppBrowser" />
-    </feature>
     <author email="dev@callback.apache.org" href="http://cordova.io">
         Apache Cordova Team
     </author>
